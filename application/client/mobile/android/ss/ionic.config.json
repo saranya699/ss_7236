@@ -1,0 +1,7 @@
+{
+  "name": "ss",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
