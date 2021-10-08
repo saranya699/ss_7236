@@ -100,7 +100,7 @@ services:
     image: SystemEntry-7236
     container_name: SystemEntry-7236
     ports: 
-      - 8007:8007
+      - 8006:8006
     env_file: .env
     depends_on:
       - mongo
